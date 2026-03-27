@@ -11,7 +11,7 @@
 
         <p>Informe o nome e as idades de duas pessoas</p>
 
-        <form action="" method="post">
+        <form action="calcula.php" method="post">
             <div>
                 <label for="pessoa1">Nome da pessoa 1</label>
                 <input type="text" name="pessoa1" id="pessoa1">
@@ -19,8 +19,6 @@
                 <label for="idade1">Idade da pessoa 1</label>
                 <input type="text" name="idade1" id="idade1">
             </div>
-        </form>
-        <form action="" method="post">
             <div>
                 <label for="pessoa2">Nome da pessoa 2</label>
                 <input type="text" name="pessoa2" id="pessoa2">
